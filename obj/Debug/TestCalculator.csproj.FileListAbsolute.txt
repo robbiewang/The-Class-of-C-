@@ -1,0 +1,21 @@
+E:\C#代码\TestCalculator\TestCalculator\bin\Debug\TestCalculator.exe.config
+E:\C#代码\TestCalculator\TestCalculator\bin\Debug\TestCalculator.exe
+E:\C#代码\TestCalculator\TestCalculator\bin\Debug\TestCalculator.pdb
+E:\C#代码\TestCalculator\TestCalculator\obj\Debug\TestCalculator.csprojAssemblyReference.cache
+E:\C#代码\TestCalculator\TestCalculator\obj\Debug\TestCalculator.csproj.CoreCompileInputs.cache
+E:\C#代码\TestCalculator\TestCalculator\obj\Debug\TestCalculator.exe
+E:\C#代码\TestCalculator\TestCalculator\obj\Debug\TestCalculator.pdb
+C:\Users\86199\Desktop\TestCalculator\TestCalculator\bin\Debug\TestCalculator.exe.config
+C:\Users\86199\Desktop\TestCalculator\TestCalculator\bin\Debug\TestCalculator.exe
+C:\Users\86199\Desktop\TestCalculator\TestCalculator\bin\Debug\TestCalculator.pdb
+C:\Users\86199\Desktop\TestCalculator\TestCalculator\obj\Debug\TestCalculator.csprojAssemblyReference.cache
+C:\Users\86199\Desktop\TestCalculator\TestCalculator\obj\Debug\TestCalculator.csproj.CoreCompileInputs.cache
+C:\Users\86199\Desktop\TestCalculator\TestCalculator\obj\Debug\TestCalculator.exe
+C:\Users\86199\Desktop\TestCalculator\TestCalculator\obj\Debug\TestCalculator.pdb
+C:\Users\ouyuc\Desktop\新建文件夹 (2)\TestCalculator\TestCalculator\bin\Debug\TestCalculator.exe.config
+C:\Users\ouyuc\Desktop\新建文件夹 (2)\TestCalculator\TestCalculator\bin\Debug\TestCalculator.exe
+C:\Users\ouyuc\Desktop\新建文件夹 (2)\TestCalculator\TestCalculator\bin\Debug\TestCalculator.pdb
+C:\Users\ouyuc\Desktop\新建文件夹 (2)\TestCalculator\TestCalculator\obj\Debug\TestCalculator.csprojAssemblyReference.cache
+C:\Users\ouyuc\Desktop\新建文件夹 (2)\TestCalculator\TestCalculator\obj\Debug\TestCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ouyuc\Desktop\新建文件夹 (2)\TestCalculator\TestCalculator\obj\Debug\TestCalculator.exe
+C:\Users\ouyuc\Desktop\新建文件夹 (2)\TestCalculator\TestCalculator\obj\Debug\TestCalculator.pdb
